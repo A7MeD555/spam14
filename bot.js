@@ -36,7 +36,6 @@ client.on('ready', () => {
 
 
 
-
 client.on("ready", () => {
 let channel =     client.channels.get("501507487954894860")
 setInterval(function() {
